@@ -1,1 +1,5 @@
-
+num_1 = int (input ('num_1 ='))
+num_2 = int (input ('num_2 ='))
+print (f'sum_of_num={num_1+num_2}')
+print(f'diff_num={num_1-num_2}')
+print(f'mult_num={num_1*num_2}')
